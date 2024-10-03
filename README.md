@@ -1,1 +1,2 @@
 # HexSoftware_MovieRatings
+The **Movie Rating Analysis Project** focuses on cleaning and preprocessing movie rating data, followed by calculating summary statistics such as the mean, median, and mode of ratings. Data visualization techniques, including histograms and box plots, are used to illustrate the distribution of ratings. The project also identifies the top-rated movies and genres by analyzing average ratings, offering insights into viewer preferences and popular trends in the movie industry.
